@@ -1,0 +1,7 @@
+.recipe {
+  margin: 50px;
+  padding: 20px;
+  flex: 1 0 20%;
+  background-color: #B7A196;
+  border-radius: 10px;
+}
